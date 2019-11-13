@@ -9,7 +9,7 @@
 ### 2、Web UI自动化测试
 - nose: python自带框架unittest的扩展，使测试更简单高效
 - selenium: 一个强大的开源Web功能测试工具系列， 模拟人为的对浏览器的操作
-### 3、公用以依赖
+### 3、公共依赖
 - html-testRunner: python标准库的unittest模块的一个扩展,它可以生成HTML的测试报告
 - openpyxl、xlrd: python操作excel库
 - ddt: python数据驱动，说的简单一点，就是数据测试数据的参数化
