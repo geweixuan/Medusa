@@ -1,0 +1,7 @@
+requests
+xlrd
+openpyxl
+html-testRunner
+ddt
+nose
+selenium
