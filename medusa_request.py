@@ -1,5 +1,5 @@
 #coding=utf-8
-from public.test_execute import RequestTest
+from public.common.test_execute import RequestTest
 
 # 自动化接口测试执行
 if __name__ == "__main__":
