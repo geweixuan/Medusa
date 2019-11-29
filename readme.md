@@ -13,3 +13,9 @@
 - html-testRunner: python标准库的unittest模块的一个扩展,它可以生成HTML的测试报告
 - openpyxl、xlrd: python操作excel库
 - ddt: python数据驱动，说的简单一点，就是数据测试数据的参数化
+### 4、使用教程之接口测试
+- 1.通过excel模板编写测试用例
+- 2.按照要求修改工程配置
+- 3.运行medusa_request.py
+- 4.查看测试报告
+### 5、使用教程之Web UI测试

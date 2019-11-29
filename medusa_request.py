@@ -1,7 +1,11 @@
 #coding=utf-8
-from public.common.test_execute import RequestTest
-
+from public.test_execute import RequestTest
+import os
+import public.common_util as temp
 # 自动化接口测试执行
-if __name__ == "__main__":
-    test = RequestTest()
-    test.run()
+requestPath = input('请输入用例全路径: ')
+temp.request_path = requestPath
+test = RequestTest()
+test.run()
+
+os.system("pause")
